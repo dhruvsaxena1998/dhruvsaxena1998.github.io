@@ -1,16 +1,16 @@
-import { Box, Heading, Text, Link } from '@chakra-ui/react';
+import { Box, Heading, Text, Link, Flex } from '@chakra-ui/react';
 
 import Head from 'next/head';
 import '@fontsource/sora';
 
 export default function Home() {
   return (
-    <Box
+    <Flex
       minH="100vh"
-      px="0.5"
-      display="flex"
-      justifyContent="center"
-      alignItems="center"
+      px="0.5rem"
+      direction="column"
+      align="center"
+      justify="center"
     >
       <Head>
         <title>Dhruv Saxena</title>
@@ -20,12 +20,19 @@ export default function Home() {
       <Box as="main">
         <Heading>
           Hello World, I'm
-          <Link color="teal.400" href="https://github.com/dhruvsaxena1998">
+          <Link
+            color="teal.400"
+            href="https://github.com/dhruvsaxena1998"
+            _hover={{
+              textDecor: 'none',
+              color: 'blue.400',
+            }}
+          >
             {' '}
             Dhruv Saxena
           </Link>
         </Heading>
       </Box>
-    </Box>
+    </Flex>
   );
 }
