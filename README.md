@@ -1,14 +1,16 @@
 ## Hey there, I'm [Dhruv Saxena][website] 👋
 #### A Fulltime JS Front-end Developer on the way to become fullstack.
 ---
-- 🔭 I’m currently hustling with my startup [Developers Education](http://devedu.tech) and some open-source projects.
+- 🔭 I’m currently hustling with my startup [Developers Education]() and [30SecondsOfStocks]().
 - 🌱 Trying to improve my skills everyday
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects and setup initial marketing for projects.
 - ⚡ Fun fact: I love to read about Cosmos and latest technologies.
+
+### Resume
+[Download here](public/resume-dhruv.pdf)
 
 ### Connect with me:
 
-[<img align="left" alt="saxenadhruv.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pawwwwtato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dhruvsaxena1998 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dhruvsaxena1998 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -33,19 +35,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/linux.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-<br />
-<br />
-
 ---
 
 <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhruvsaxena1998&show_icons=true&hide_border=true&count_private=true" /> 
 
-<br />
-<br />
+<img alt="Github Stream" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsaxena1998&theme=light" />
 
-[website]: https://www.saxenadhruv.me
+[website]: https://dhruvsaxena1998.github.io
 [twitter]: https://twitter.com/pawwwwtato
 [instagram]: https://instagram.com/dhruvsaxena1998
 [linkedin]: https://linkedin.com/in/dhruvsaxena1998
